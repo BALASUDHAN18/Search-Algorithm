@@ -41,9 +41,11 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ## Sample Input and Output
 
+![output 1 (2)](https://github.com/BALASUDHAN18/Search-Algorithm/assets/118807740/2621429b-789c-41a6-a63d-e4521494954a)
+                                      
 
 
-
+![image](https://github.com/BALASUDHAN18/Search-Algorithm/assets/118807740/5e03866e-0cfc-43e7-ad15-2f40565c37e8)
 
 
 ## Result
