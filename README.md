@@ -84,10 +84,6 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
-
-
-
-
 ''' 
 Program to find the element in a list using Binary Search(Recursive Method)..
 Developed by: BALASUDHAN P
@@ -115,14 +111,15 @@ else:
     print(arr)
     print("Element found at index: ",result)
 
-
-
-
 ```
 ## Sample Input and Output
+![Screenshot 2023-06-11 095153](https://github.com/BALASUDHAN18/Search-Algorithm/assets/118807740/0ba86c9c-f519-46b3-ac69-f90362a59797)
 
 
+![Screenshot 2023-06-11 095244](https://github.com/BALASUDHAN18/Search-Algorithm/assets/118807740/a7c7fd9a-3fad-46ed-ba7b-0b3569749d78)
 
+
+![Screenshot 2023-06-11 095321](https://github.com/BALASUDHAN18/Search-Algorithm/assets/118807740/b416964a-67e7-4ca9-ae14-35adcf0ce1b9)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
